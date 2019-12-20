@@ -587,8 +587,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .lightText {
-   color: white;
+   color: #dcdcdc;
    font: 15px/24px 'opensans-regular', sans-serif;
+}
+
+.footerStyle {
+   margin-bottom: 72px;
 }
 
 /* ------------------------------------------------------------------ */
